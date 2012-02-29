@@ -1,4 +1,4 @@
-#Develop With Passion® - .Net Developer BootCamp Setup
+#Develop With Passion® - .Net Software Craftmanship BootCamp Setup
 
 #Required Setup
 
